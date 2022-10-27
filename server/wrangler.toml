@@ -1,0 +1,9 @@
+name = "server"
+main = "src/server.ts"
+compatibility_date = "2022-10-23"
+
+[vars]
+UPSTASH_REDIS_REST_URL = "https://global-brief-ghost-30396.upstash.io"
+
+# [secrets]
+# UPSTASH_REDIS_REST_TOKEN
